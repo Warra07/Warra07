@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am a Machine Learning Engineer specializing in N
 - Computer Vision: Object detection, recognition, segmentation, generation (GANs, VAEs)
 - MLOps: mlflow, DVC, Hydra, cloud-based infrastructure (Azure, Databricks)
 - Data Processing: Pandas, NumPy, SciPy, Spark, OpenCV, Pillow
-- 
+
 I constantly strive to stay on the cutting edge of AI technology and welcome the opportunity to collaborate on innovative projects. I'm mostly self-taught and highly autonomous, always eager to learn and contribute.
 
 ## 📚 Favorite Courses and Learning Resources:
