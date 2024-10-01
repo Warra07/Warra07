@@ -3,13 +3,13 @@ Passionate Machine Learning Engineer | AI Enthusiast
 Welcome to my GitHub profile! I am a Machine Learning Engineer specializing in NLP, computer vision, and large-scale deep learning models. With experience building and deploying AI systems in fast-paced environments, I thrive at the intersection of research and production, pushing the boundaries of AI to solve real-world challenges.
 
 ## 👨‍💻 Technologies I Work With:
-Programming Languages: Python, SQL
-ML/DL Frameworks: PyTorch, Hugging Face Transformers, scikit-learn, Hydra, mlflow
-NLP: Transformers, NER, text classification, topic modeling, language modeling, OCR
-Computer Vision: Object detection, recognition, segmentation, generation (GANs, VAEs)
-MLOps: mlflow, DVC, Hydra, cloud-based infrastructure (Azure, Databricks)
-Data Processing: Pandas, NumPy, SciPy, Spark, OpenCV
-Software Development: Git, OOP, Databases (CouchDB)
+- Programming Languages: Python, SQL, Java, C, javascript, C++ without practice
+- ML/DL Frameworks: PyTorch, Hugging Face Transformers, scikit-learn, Hydra, mlflow
+- NLP: Transformers, NER, text classification, topic modeling, language modeling, OCR, LLM; RAG
+- Computer Vision: Object detection, recognition, segmentation, generation (GANs, VAEs)
+- MLOps: mlflow, DVC, Hydra, cloud-based infrastructure (Azure, Databricks)
+- Data Processing: Pandas, NumPy, SciPy, Spark, OpenCV, Pillow
+- 
 I constantly strive to stay on the cutting edge of AI technology and welcome the opportunity to collaborate on innovative projects. I'm mostly self-taught and highly autonomous, always eager to learn and contribute.
 
 ## 📚 Favorite Courses and Learning Resources:
