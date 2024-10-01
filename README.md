@@ -29,6 +29,6 @@ I constantly strive to stay on the cutting edge of AI technology and welcome the
 - Alfredo Canziani - Assistant Professor of Computer Science at New York University
 - And many more !
 ## 🚀 About Me:
-As a self-driven and resourceful machine learning engineer, I am always looking for opportunities to collaborate on exciting AI projects. I pride myself on being autonomous and proactive in learning new tools and methodologies. In addition to the tools mentioned above, I am open to exploring FastAI, TensorFlow, and JAX to expand my toolkit further.
+As a self-driven and resourceful machine learning engineer, I am always looking for opportunities to collaborate on exciting AI projects. I pride myself on being autonomous and proactive in learning new tools and methodologies. In addition to the tools mentioned above, I am open to exploring other tools related to my interrest and i'm always eager to learn something new to expand my toolkit further.
 
 Feel free to connect with me on LinkedIn
