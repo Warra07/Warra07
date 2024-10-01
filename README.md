@@ -13,13 +13,13 @@ Software Development: Git, OOP, Databases (CouchDB)
 I constantly strive to stay on the cutting edge of AI technology and welcome the opportunity to collaborate on innovative projects. I'm mostly self-taught and highly autonomous, always eager to learn and contribute.
 
 ## 📚 Favorite Courses and Learning Resources:
-CS224n: Natural Language Processing with Deep Learning
-CS231n: Convolutional Neural Networks for Visual Recognition
-CS229: Machine Learning by Andrew Ng
-A Probability Space by J.N. Corcoran
-Gilbert Strang's Linear Algebra
-DeepLearning.AI (NLP and Computer Vision)
-I believe in continuous learning and exploring new frontiers in AI.
+- CS224n: Natural Language Processing with Deep Learning
+- CS231n: Convolutional Neural Networks for Visual Recognition
+- CS229: Machine Learning by Andrew Ng
+- A Probability Space by J.N. Corcoran
+- Gilbert Strang's Linear Algebra
+- DeepLearning.AI (NLP and Computer Vision)
+- I believe in continuous learning and exploring new frontiers in AI.
 
 ## 📺 Content Creators Who Inspire Me:
 - Andrew Ng - Machine learning and AI thought leader
